@@ -87,4 +87,4 @@ sort_and_split_names(names)
 
 
 #Note: In Task 5, if the number of names is odd, one group will have one more name than the other.
-# Backend 1
+# Backend 1 -homework
