@@ -1,6 +1,6 @@
 #Task 1:
 
-
+#python code
 def find_numbers(start=None, finish=None, divisible_by=None, not_divisible_by=None):
     numbers = []
     for num in range(start, finish+1):
